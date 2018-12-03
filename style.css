@@ -1,0 +1,46 @@
+body {
+    background-color: lightblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px 300px;
+}
+
+header{
+    width: 150px;
+    margin: auto;
+}
+
+nav{
+    width: 120px;
+    margin: auto;
+}
+a:hover {
+    color: darkviolet;
+}
+
+a:visited {
+    color: darkslategrey;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    width: 180px;
+    margin: auto;
+}
+
+h2{
+    font-family: Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: lighter;
+    width: 430px;
+    margin:auto;
+}
+
+img{
+    border-style: solid;
+    border-color: white;
+    border-width: 3px;
+}
+
+th, td{
+    border: solid white 1px;
+}
